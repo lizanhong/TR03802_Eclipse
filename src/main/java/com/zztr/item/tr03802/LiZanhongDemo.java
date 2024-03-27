@@ -1,7 +1,7 @@
 package com.zztr.item.tr03802;
 
-public class oyDemo {
+public class LiZanhongDemo {
 	public static void main(String[] args) {
-		System.out.println("阿咪诺司！");
+		System.out.println("我叫李赞红");
 	}
 }
