@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.zztr.item.tr03802.AppTest" time="0.356" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="F:\eclipseProjects\tr03802\target\test-classes;F:\eclipseProjects\tr03802\target\classes;F:\Tim\myRepository\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;F:\Tim\myRepository\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;F:\Tim\myRepository\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\LiZanhong\AppData\Local\Temp\surefire2714684212565117102\surefirebooter-20231228104110495_3.jar C:\Users\LiZanhong\AppData\Local\Temp\surefire2714684212565117102 2023-12-28T10-41-10_327-jvmRun1 surefire-20231228104110495_1tmp surefire_0-20231228104110495_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\eclipseProjects\tr03802\target\test-classes;F:\eclipseProjects\tr03802\target\classes;F:\Tim\myRepository\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;F:\Tim\myRepository\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;F:\Tim\myRepository\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\LiZanhong"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-09-14"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="F:\eclipseProjects\tr03802"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\LiZanhong\AppData\Local\Temp\surefire2714684212565117102\surefirebooter-20231228104110495_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17+35-LTS-2724"/>
+    <property name="user.name" value="LiZanhong"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="F:\Tim\myRepository\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\LIZANH~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="17"/>
+    <property name="user.dir" value="F:\eclipseProjects\tr03802"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/Program Files/eclipse-jee-2022-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038/jre/bin/server;D:/Program Files/eclipse-jee-2022-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220903-1038/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;D:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\MySQL\MySQL Server 5.7\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;d:\program files\python38\Scripts;d:\program files\python38;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Library\Librarys\apache-maven-3.9.1-bin\apache-maven-3.9.1\bin;D:\Program Files\Git\cmd;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;%IntelliJ IDEA%;D:\Program Files\eclipse-jee-2022-09-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17+35-LTS-2724"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.zztr.item.tr03802.AppTest" time="0.001"/>
+  <testcase name="testQuery" classname="com.zztr.item.tr03802.AppTest" time="0.342">
+    <system-out><![CDATA[10
+ACCOUNTING
+NEW YORK
+20
+RESEARCH
+DALLAS
+30
+SALES
+CHICAGO
+40
+OPERATIONS
+BOSTON
+]]></system-out>
+  </testcase>
+</testsuite>
