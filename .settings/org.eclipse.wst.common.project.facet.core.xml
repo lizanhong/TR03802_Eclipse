@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
+<<<<<<< HEAD
   <installed facet="wst.jsdt.web" version="1.0"/>
   <installed facet="java" version="17"/>
+=======
+  <installed facet="java" version="1.8"/>
+>>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 </faceted-project>
