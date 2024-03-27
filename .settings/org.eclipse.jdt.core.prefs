@@ -5,11 +5,16 @@ org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
 =======
 <<<<<<< HEAD
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.compliance=1.8
+=======
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=18
 org.eclipse.jdt.core.compiler.compliance=18
 =======
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
 org.eclipse.jdt.core.compiler.compliance=1.8
+>>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 >>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 >>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
@@ -23,10 +28,14 @@ org.eclipse.jdt.core.compiler.release=disabled
 org.eclipse.jdt.core.compiler.source=1.8
 =======
 org.eclipse.jdt.core.compiler.release=enabled
+<<<<<<< HEAD
+org.eclipse.jdt.core.compiler.source=1.8
+=======
 org.eclipse.jdt.core.compiler.source=18
 =======
 org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=ignore
 org.eclipse.jdt.core.compiler.release=disabled
 org.eclipse.jdt.core.compiler.source=1.8
+>>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 >>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
 >>>>>>> branch 'master' of git@github.com:lizanhong/TR03802_Eclipse.git
