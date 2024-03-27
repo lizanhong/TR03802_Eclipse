@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 public class afsds_pengyi {
 	public static void main(String[] args) {
+		
 		File file = new File("E:/zktr/a.txt");
 		Scanner in = new Scanner(System.in);
 		if(file.exists()) {
